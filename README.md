@@ -32,7 +32,6 @@ Teste des datas grâce à un petit script Python.
 Tous les affichages se font dans la console.
 
 **************************************************************************************************************
-## En plus : script qui demande le chemin d'un fichier json, insére un ou plusieurs nouveaux documents, à partir de ce fichier, dans la collection publis.
 
 
 
